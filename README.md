@@ -1,2 +1,4 @@
+
 # rollup-plugin-node-builtin
-rollup-plugin-node-builtin
+
+Node builtin polyfill based on `@jspm/core`
